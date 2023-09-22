@@ -7,12 +7,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rankail&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rankail&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Languages i want to learn / learned
+### Languages i want to learn / learned (sorted by fun)
 - [x] C++
 - [x] Sphinx :P
 - [x] Lua
-- [x] Javascript
 - [x] Python
+- [x] Javascript
 - [x] Java
 - [ ] Haskell
 - [ ] Rust
