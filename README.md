@@ -15,8 +15,6 @@
 - [x] Javascript
 - [x] Java
 - [ ] Haskell
-- [ ] Rust
-- [ ] C#
 - [ ] Lisp
 - [ ] Dart
 - [ ] Go
